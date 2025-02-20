@@ -19,7 +19,7 @@ Este projeto utiliza **Gradio** para criar uma interface interativa que permite 
 - Interface simples para interação com o modelo GPT-4o-mini.
 - Respostas em tempo real utilizando **streaming**.
 - Facilidade para testar o modelo sem necessidade de desenvolvimento web.
-
+- [Demostração da Interface usando Gradio e Chatbot](https://huggingface.co/spaces/Bruxteclas/Interface_interativa_usando_Gradio)
 ---
 
 ## Tecnologias Utilizadas
